@@ -16,6 +16,7 @@ const Article = mongoose.model('Article',new mongoose.Schema({
     body:{type: String},
 }))
 
+
 app.get('/',async(req,res)=>{
     res.send('index')
 })
