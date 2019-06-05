@@ -1,4 +1,5 @@
 # element-admin
+使用了vue和elementui做的简易文章管理系统
 
 ## Project setup
 ```
