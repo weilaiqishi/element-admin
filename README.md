@@ -1,5 +1,6 @@
 # element-admin
 使用了vue和elementui做的简易文章管理系统
+可在img中看展示图片
 
 ## Project setup
 ```
